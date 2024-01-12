@@ -1,0 +1,8 @@
+@article{REPO022,
+    author = "Hu, Anthony and Corrado, Gianluca and Griffiths, Nicolas and Murez, Zachary and Gurau, Corina and Yeo, Hudson and Kendall, Alex and Cipolla, Roberto and Shotton, Jamie",
+    journal = "Advances in Neural Information Processing Systems",
+    pages = "20703--20716",
+    title = "{Model-Based Imitation Learning for Urban Driving}",
+    volume = "35",
+    year = "2022"
+}
